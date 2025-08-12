@@ -10,8 +10,8 @@ It features a **Booking Table** for tracking passenger travel and payment detail
 
 Below is an example output from the project:
 
-![ABAP Program Output](output1.png)
 ![ABAP Program Output](output2.png)
+![ABAP Program Output](output1.png)
 
 ---
 
